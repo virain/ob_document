@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8128682850f49f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "测试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,9 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e12b6e3491fa38d",
+  "active": "8128682850f49f5a",
   "lastOpenFiles": [
     "111.md",
+    "index.md",
     "测试.md"
   ]
 }
