@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50364e7fef5fbb4f",
+        "id": "f682f6a8311a427d",
         "type": "tabs",
         "children": [
           {
-            "id": "003e6f396b3aca14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "测试.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8128682850f49f5a",
+            "id": "af31b7193bf58b0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8128682850f49f5a",
+  "active": "af31b7193bf58b0b",
   "lastOpenFiles": [
     "测试.md",
-    "111.md",
-    "index.md"
+    "index.md",
+    "111.md"
   ]
 }
