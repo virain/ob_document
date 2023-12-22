@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
      - name: Dispatch Event
-       run: echo $TOKEN
+       run: echo ${{ env.TOKEN }}
