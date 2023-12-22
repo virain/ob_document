@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
      - name: Dispatch Event
-       run: echo ${{ secrets.GIT_TOKEN }}
+       run: echo $TOKEN
