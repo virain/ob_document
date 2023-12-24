@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5b3176a2eeb33d9",
+        "id": "ab22bc3832a9e6f3",
         "type": "tabs",
         "children": [
           {
-            "id": "81a694fb0efa17c3",
+            "id": "8a9670a5388e87e3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,20 +138,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "81a694fb0efa17c3",
+  "active": "bc79a85cfd973d07",
   "lastOpenFiles": [
-    "00_attachments/Pasted image 20231224153418.png",
-    "index.md",
-    "cloud/index.md",
+    "application/cms/index.md",
+    "application/e-commerce/magento.md",
+    "application/cms",
+    "application/e-commerce/index.md",
+    "未命名.md",
     "application/index.md",
-    "Contact Us.md",
     "FAQ.md",
+    "application/e-commerce",
     "Get Support.md",
+    "index.md",
+    "00_attachments/Pasted image 20231224153418.png",
+    "cloud/index.md",
+    "Contact Us.md",
     "cloud/tcloud.md",
     "cloud/alicloud.md",
     "cloud",
-    "application/wordpress.md",
-    "application/magento.md",
+    "application/cms/wordpress.md",
     "application",
     "administrator/remoto.md",
     "administrator/index.md",
