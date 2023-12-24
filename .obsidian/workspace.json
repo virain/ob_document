@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f97179d249d9c3c",
+        "id": "c5b3176a2eeb33d9",
         "type": "tabs",
         "children": [
           {
-            "id": "2e87a0a628123e36",
+            "id": "81a694fb0efa17c3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,13 +138,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2e87a0a628123e36",
+  "active": "81a694fb0efa17c3",
   "lastOpenFiles": [
+    "00_attachments/Pasted image 20231224153418.png",
+    "index.md",
     "cloud/index.md",
     "application/index.md",
     "Contact Us.md",
     "FAQ.md",
-    "index.md",
     "Get Support.md",
     "cloud/tcloud.md",
     "cloud/alicloud.md",
