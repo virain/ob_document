@@ -11,8 +11,12 @@
             "id": "8a9670a5388e87e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
@@ -138,14 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bc79a85cfd973d07",
+  "active": "8a9670a5388e87e3",
   "lastOpenFiles": [
+    "application/index.md",
     "application/cms/index.md",
     "application/e-commerce/magento.md",
     "application/cms",
     "application/e-commerce/index.md",
     "未命名.md",
-    "application/index.md",
     "FAQ.md",
     "application/e-commerce",
     "Get Support.md",
