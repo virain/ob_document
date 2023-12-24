@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": ""
+  "attachmentFolderPath": "00_attachments",
+  "promptDelete": false
 }
