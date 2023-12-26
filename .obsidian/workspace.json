@@ -128,8 +128,17 @@
                 "file": "index.md"
               }
             }
+          },
+          {
+            "id": "1c34e5ca28bd3a41",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -143,11 +152,16 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "8a9670a5388e87e3",
   "lastOpenFiles": [
+    "0_Excalidraw/Drawing 2023-12-26 15.55.30.excalidraw.md",
+    "index.md",
+    "0_Excalidraw",
+    "00_attachments/Pasted image 20231224153418.png",
     "application/index.md",
     "application/cms/index.md",
     "application/e-commerce/magento.md",
@@ -157,8 +171,6 @@
     "FAQ.md",
     "application/e-commerce",
     "Get Support.md",
-    "index.md",
-    "00_attachments/Pasted image 20231224153418.png",
     "cloud/index.md",
     "Contact Us.md",
     "cloud/tcloud.md",
