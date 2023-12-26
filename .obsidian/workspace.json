@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ddcfb48a1d20202",
+        "id": "a8e7f529f48e9a98",
         "type": "tabs",
         "children": [
           {
-            "id": "b1d3f64affdc00ff",
+            "id": "ea75baab4979adfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,10 +155,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b1d3f64affdc00ff",
+  "active": "ea75baab4979adfa",
   "lastOpenFiles": [
-    "().md",
+    "123.webp",
     "index.md",
+    "().md",
     "0_Excalidraw/Drawing 2023-12-26 15.55.30.excalidraw.md",
     "0_Excalidraw",
     "00_attachments/Pasted image 20231224153418.png",
