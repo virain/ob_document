@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "administrator/index.md",
+                "file": "administrator/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 283.5
   },
   "right": {
     "id": "2b0b0d507181c9ab",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "administrator/index.md",
+                "file": "administrator/Docker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "administrator/index.md",
+                "file": "administrator/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "administrator/index.md"
+                "file": "administrator/Docker.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "f6f2d2c1bc427ed3",
   "lastOpenFiles": [
-    "administrator/remoto.md",
-    "administrator/index.md",
-    "administrator/Docker 容器基础.md",
-    "application/e-commerce/PrestaShop 开源电子商务系统.md",
     "application/e-commerce/magento.md",
+    "application/e-commerce/PrestaShop.md",
+    "administrator/index.md",
+    "administrator/remoto.md",
+    "administrator/Docker.md",
     "application/index.md",
     "FAQ.md",
     "index.md",
