@@ -3,7 +3,7 @@ title: PrestaShop 开源电子商务系统
 ---
   PrestaShop 是一款针对 web2.0 设计的全功能、跨平台的免费开源电子商务解决方案, Prestashop 基于 Smarty 引擎编程设计，模块化设计，扩展性强，能轻易实现多种语言，多种货币浏览交易，支持 Paypal 等几乎所有的支付手段，是外贸网站建站的佳选。Prestashop 是目前为止，操作简单，人性化，用户体验好的电子商务解决方案之一。
   ![](https://img.stacknil.com//20240111223301.png)
-## 准备[¶](https://docs.stacknil.com/docs/application/prestashop/#%E5%87%86%E5%A4%87 "Permanent link")
+## 准备
 
 部署 OpenCart 应用镜像完成之后，需完成如下的准备工作：
 
@@ -15,7 +15,24 @@ title: PrestaShop 开源电子商务系统
 1. 浏览器上访问服务器公网 IP 或者解析完成的域名。
 ![](https://img.stacknil.com//20240111231752.png)
 
-2. 登录后台，浏览器上访问 `http://服务器公网IP/admin/` (**第一次访问后会自动更改随机地址**，类似 `/admin952v9vvtklypnftfyf9/`)
+2. 登录后台，浏览器上访问 `http://服务器公网IP/admin/` (**第一次访问后会自动更改随机地址**，类似 `/admin952v9vvtklypnftfyf9/`)，查看[[账号密码]]
 ![](https://img.stacknil.com//20240111231056.png)
 3. 后台登录成功
 ![](https://img.stacknil.com//20240111231243.png)
+
+
+
+## 管理/配置指南
+
+### 语言/本地化设置
+
+### 查看后台地址
+### 修改后台地址
+
+### 删除演示数据
+
+
+## 参数
+
+### 路径
+### 服务
