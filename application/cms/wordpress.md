@@ -1,6 +1,5 @@
 ---
-title: WordPress 镜像使用手册
-
+title: WordPress
 ---
 
 WordPress 镜像使用手册
