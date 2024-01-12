@@ -15,7 +15,7 @@ title: PrestaShop
 1. 浏览器上访问服务器公网 IP 或者解析完成的域名。
 ![](https://img.stacknil.com//20240111231752.png)
 
-2. 登录后台，浏览器上访问 `http://服务器公网IP/admin/` (**第一次访问后会自动更改随机地址**，类似 `/admin952v9vvtklypnftfyf9/`)，查看[[账号密码]]
+2. 登录后台，浏览器上访问 `http://服务器公网IP/admin/` (**第一次访问后会自动更改为随机地址**，类似 `/admin952v9vvtklypnftfyf9/`)，查看[[账号密码]]
 ![](https://img.stacknil.com//20240111231056.png)
 3. 后台登录成功
 ![](https://img.stacknil.com//20240111231243.png)
