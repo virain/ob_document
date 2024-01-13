@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98b11e4fc5065b86",
+        "id": "ead091a543f1e9c7",
         "type": "tabs",
         "children": [
           {
-            "id": "f0446bc8469a1008",
+            "id": "45d7a133da6df511",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,21 +147,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f0446bc8469a1008",
+  "active": "45d7a133da6df511",
   "lastOpenFiles": [
-    "application/e-commerce/index.md",
-    "administrator/Traefik.md",
-    "application/e-commerce/PrestaShop.md",
+    "administrator/HTTPS-SSL.md",
+    "administrator/domain.md",
+    "administrator/index.md",
+    "administrator/remoto.md",
+    "index.md",
     "image.md",
+    "application/e-commerce/index.md",
+    "application/e-commerce/PrestaShop.md",
     "administrator/Docker.md",
     "配置域名.md",
     "application/e-commerce/Magento.md",
     "application/cms/WordPress.md",
-    "administrator/index.md",
-    "administrator/remoto.md",
     "application/index.md",
     "FAQ.md",
-    "index.md",
     "Contact Us.md",
     "123.webp",
     "().md",
