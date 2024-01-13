@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "administrator/domain.md",
+                "file": "FAQ/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "administrator/domain.md",
+                "file": "FAQ/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "administrator/domain.md",
+                "file": "FAQ/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "administrator/domain.md"
+                "file": "FAQ/index.md"
               }
             }
           },
@@ -157,17 +157,18 @@
   },
   "active": "45d7a133da6df511",
   "lastOpenFiles": [
-    "FAQ/index.md",
+    "cloud/index.md",
+    "administrator/index.md",
     "application/index.md",
+    "administrator/domain.md",
+    "FAQ/index.md",
     "index.md",
     "FAQ/get-password.md",
     "Get Support.md",
     "Contact Us.md",
-    "administrator/domain.md",
     "FAQ.md",
     "FAQ",
     "administrator/HTTPS-SSL.md",
-    "administrator/index.md",
     "administrator/remoto.md",
     "image.md",
     "application/e-commerce/index.md",
@@ -184,7 +185,6 @@
     "application/cms/index.md",
     "application/cms",
     "application/e-commerce",
-    "cloud/index.md",
     "cloud/tcloud.md",
     "cloud/alicloud.md",
     "cloud",
