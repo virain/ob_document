@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ead091a543f1e9c7",
+        "id": "e7b732d4dc7a6adb",
         "type": "tabs",
         "children": [
           {
-            "id": "45d7a133da6df511",
+            "id": "0625db0dd08a14f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "administrator/index.md",
+                "file": "FAQ/get-password.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "administrator/index.md",
+                "file": "FAQ/get-password.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "administrator/index.md",
+                "file": "FAQ/get-password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "administrator/index.md"
+                "file": "FAQ/get-password.md"
               }
             }
           },
@@ -155,20 +155,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "45d7a133da6df511",
+  "active": "0625db0dd08a14f1",
   "lastOpenFiles": [
+    "administrator/domain.md",
+    "administrator/HTTPS-SSL.md",
+    "administrator/index.md",
     "application/index.md",
     "cloud/index.md",
     "FAQ/index.md",
-    "administrator/index.md",
-    "administrator/domain.md",
     "index.md",
     "FAQ/get-password.md",
     "Get Support.md",
     "Contact Us.md",
     "FAQ.md",
     "FAQ",
-    "administrator/HTTPS-SSL.md",
     "administrator/remoto.md",
     "image.md",
     "application/e-commerce/index.md",
