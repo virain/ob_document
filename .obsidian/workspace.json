@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAQ/index.md",
+                "file": "administrator/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAQ/index.md",
+                "file": "administrator/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAQ/index.md",
+                "file": "administrator/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FAQ/index.md"
+                "file": "administrator/index.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "45d7a133da6df511",
   "lastOpenFiles": [
-    "cloud/index.md",
-    "administrator/index.md",
     "application/index.md",
-    "administrator/domain.md",
+    "cloud/index.md",
     "FAQ/index.md",
+    "administrator/index.md",
+    "administrator/domain.md",
     "index.md",
     "FAQ/get-password.md",
     "Get Support.md",
