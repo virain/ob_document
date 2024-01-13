@@ -11,8 +11,12 @@
             "id": "45d7a133da6df511",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "administrator/domain.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "administrator/domain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "administrator/domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "administrator/domain.md"
+              }
             }
           },
           {
@@ -149,11 +157,18 @@
   },
   "active": "45d7a133da6df511",
   "lastOpenFiles": [
-    "administrator/HTTPS-SSL.md",
+    "FAQ/index.md",
+    "application/index.md",
+    "index.md",
+    "FAQ/get-password.md",
+    "Get Support.md",
+    "Contact Us.md",
     "administrator/domain.md",
+    "FAQ.md",
+    "FAQ",
+    "administrator/HTTPS-SSL.md",
     "administrator/index.md",
     "administrator/remoto.md",
-    "index.md",
     "image.md",
     "application/e-commerce/index.md",
     "application/e-commerce/PrestaShop.md",
@@ -161,9 +176,6 @@
     "配置域名.md",
     "application/e-commerce/Magento.md",
     "application/cms/WordPress.md",
-    "application/index.md",
-    "FAQ.md",
-    "Contact Us.md",
     "123.webp",
     "().md",
     "0_Excalidraw/Drawing 2023-12-26 15.55.30.excalidraw.md",
@@ -172,7 +184,6 @@
     "application/cms/index.md",
     "application/cms",
     "application/e-commerce",
-    "Get Support.md",
     "cloud/index.md",
     "cloud/tcloud.md",
     "cloud/alicloud.md",
@@ -182,7 +193,6 @@
     "00_attachments",
     "测试.md",
     "111.md",
-    "readme.md",
     "Pasted image 20231222154234.png",
     "Pasted image 20231222151743.png"
   ]
