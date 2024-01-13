@@ -6,10 +6,7 @@ title: 获取用户/密码
 > [!tip]
 > 服务器实例 ID 在创建云服务器时由云平台系统随机生成，具有唯一性且符合强密码的规则。
    我们为镜像内应用/网站程序也单独设置了一套**专用的数据库并分配独立的数据库用户名和密码**
-
-> [!info]
-> Coming from Quartz 3? See the [[migrating from Quartz 3|migration guide]] for the differences between Quartz 3 and Quartz 4 and how to migrate.
-
+   
 ## Linux 系统
 可以通过SSH远程登录到服务器内，输入命令查看初始化账户/密码等信息
 ``` shell

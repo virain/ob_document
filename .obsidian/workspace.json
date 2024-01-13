@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e7b732d4dc7a6adb",
+        "id": "fe9830c9074e7d62",
         "type": "tabs",
         "children": [
           {
-            "id": "0625db0dd08a14f1",
+            "id": "f6828cf1257cb54d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FAQ/get-password.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAQ/get-password.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAQ/get-password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FAQ/get-password.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,24 +147,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0625db0dd08a14f1",
+  "active": "f6828cf1257cb54d",
   "lastOpenFiles": [
-    "administrator/domain.md",
-    "administrator/HTTPS-SSL.md",
+    "administrator/remoto.md",
     "administrator/index.md",
+    "administrator/HTTPS-SSL.md",
+    "administrator/domain.md",
+    "application/e-commerce/PrestaShop.md",
     "application/index.md",
     "cloud/index.md",
+    "cloud/tcloud.md",
     "FAQ/index.md",
-    "index.md",
-    "FAQ/get-password.md",
-    "Get Support.md",
     "Contact Us.md",
+    "Get Support.md",
+    "FAQ/get-password.md",
+    "index.md",
     "FAQ.md",
     "FAQ",
-    "administrator/remoto.md",
     "image.md",
     "application/e-commerce/index.md",
-    "application/e-commerce/PrestaShop.md",
     "administrator/Docker.md",
     "配置域名.md",
     "application/e-commerce/Magento.md",
@@ -185,7 +178,6 @@
     "application/cms/index.md",
     "application/cms",
     "application/e-commerce",
-    "cloud/tcloud.md",
     "cloud/alicloud.md",
     "cloud",
     "application",
