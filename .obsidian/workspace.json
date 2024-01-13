@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fe9830c9074e7d62",
+        "id": "7a09cab3c1b5a4c1",
         "type": "tabs",
         "children": [
           {
-            "id": "f6828cf1257cb54d",
+            "id": "2c7c606bb9feb5c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cloud/image.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cloud/image.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cloud/image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cloud/image.md"
+              }
             }
           },
           {
@@ -147,24 +155,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f6828cf1257cb54d",
+  "active": "bc79a85cfd973d07",
   "lastOpenFiles": [
-    "administrator/remoto.md",
+    "index.md",
+    "Get Support.md",
+    "Contact Us.md",
+    "未命名.md",
+    "cloud/buying-advice.md",
+    "pay-service.md",
+    "cloud/image.md",
+    "FAQ/index.md",
+    "FAQ/get-password.md",
+    "cloud/tcloud.md",
+    "cloud/index.md",
+    "cloud/alicloud.md",
     "administrator/index.md",
-    "administrator/HTTPS-SSL.md",
     "administrator/domain.md",
+    "administrator/remoto.md",
+    "administrator/HTTPS-SSL.md",
     "application/e-commerce/PrestaShop.md",
     "application/index.md",
-    "cloud/index.md",
-    "cloud/tcloud.md",
-    "FAQ/index.md",
-    "Contact Us.md",
-    "Get Support.md",
-    "FAQ/get-password.md",
-    "index.md",
     "FAQ.md",
     "FAQ",
-    "image.md",
     "application/e-commerce/index.md",
     "administrator/Docker.md",
     "配置域名.md",
@@ -175,16 +187,12 @@
     "0_Excalidraw/Drawing 2023-12-26 15.55.30.excalidraw.md",
     "0_Excalidraw",
     "00_attachments/Pasted image 20231224153418.png",
-    "application/cms/index.md",
     "application/cms",
     "application/e-commerce",
-    "cloud/alicloud.md",
     "cloud",
     "application",
     "administrator",
     "00_attachments",
-    "测试.md",
-    "111.md",
     "Pasted image 20231222154234.png",
     "Pasted image 20231222151743.png"
   ]

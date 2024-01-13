@@ -10,6 +10,6 @@ title: 获取用户/密码
 ## Linux 系统
 可以通过SSH远程登录到服务器内，输入命令查看初始化账户/密码等信息
 ``` shell
-cat /DockerApps/appname/config  # appname 为你当前镜像应用名称
+cat /DockerApps/appname/config  # appname 为当前镜像应用名称
 ```
 ![](https://img.stacknil.com//20240113150852.png)
