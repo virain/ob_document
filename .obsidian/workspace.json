@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7a09cab3c1b5a4c1",
+        "id": "0e550389ba3722f4",
         "type": "tabs",
         "children": [
           {
-            "id": "2c7c606bb9feb5c0",
+            "id": "fc55d65af26c6c19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cloud/image.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cloud/image.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cloud/image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cloud/image.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,24 +147,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bc79a85cfd973d07",
+  "active": "fc55d65af26c6c19",
   "lastOpenFiles": [
+    "administrator/HTTPS-SSL.md",
+    "administrator/domain.md",
+    "administrator/remoto.md",
+    "cloud/alicloud.md",
+    "cloud/index.md",
+    "cloud/image.md",
     "index.md",
     "Get Support.md",
     "Contact Us.md",
     "未命名.md",
     "cloud/buying-advice.md",
     "pay-service.md",
-    "cloud/image.md",
     "FAQ/index.md",
     "FAQ/get-password.md",
     "cloud/tcloud.md",
-    "cloud/index.md",
-    "cloud/alicloud.md",
     "administrator/index.md",
-    "administrator/domain.md",
-    "administrator/remoto.md",
-    "administrator/HTTPS-SSL.md",
     "application/e-commerce/PrestaShop.md",
     "application/index.md",
     "FAQ.md",
